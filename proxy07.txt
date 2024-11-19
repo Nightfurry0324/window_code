@@ -1,0 +1,5 @@
+107.172.163.96:6612,ewogosdq,som3ok65wnma
+45.43.185.213:6219,ewogosdq,som3ok65wnma
+204.44.108.243:6264,ewogosdq,som3ok65wnma
+89.34.237.36:5780,ewogosdq,som3ok65wnma
+104.233.13.225:6220,ewogosdq,som3ok65wnma
